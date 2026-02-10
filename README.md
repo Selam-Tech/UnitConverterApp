@@ -59,5 +59,5 @@ It displays conversion results instantly without requiring internet connectivity
 
 > ⚠ Note: This application runs locally on your Windows machine and does **not require an internet connection**.
 
-
+📬 Author Selamawit Mekbib Computer Science Undergraduate (Unity University) GitHub: Selam-Tech
 
