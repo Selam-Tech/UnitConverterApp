@@ -27,7 +27,7 @@ It displays conversion results instantly without requiring internet connectivity
 1. **Download the Project**
    - Click the **Code → Download ZIP** button on GitHub, or clone the repository using:
      ```
-     git clone https://github.com/selam-tech/UnitConverterApp.git
+     git clone https://github.com/Selam-Tech/UnitConverterApp.git
      ```
 
 2. **Open the Application**
