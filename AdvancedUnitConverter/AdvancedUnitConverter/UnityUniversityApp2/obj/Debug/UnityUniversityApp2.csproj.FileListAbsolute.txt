@@ -1,0 +1,4 @@
+C:\Users\samiy\Desktop\file\UnityUniversityApp2\UnityUniversityApp2\obj\Debug\UnityUniversityApp2.csproj.AssemblyReference.cache
+C:\Users\samiy\Desktop\file\UnityUniversityApp2\UnityUniversityApp2\obj\Debug\UnityUniversityApp2.Properties.Resources.resources
+C:\Users\samiy\Desktop\file\UnityUniversityApp2\UnityUniversityApp2\obj\Debug\UnityUniversityApp2.csproj.GenerateResource.cache
+C:\Users\samiy\Desktop\file\UnityUniversityApp2\UnityUniversityApp2\obj\Debug\UnityUniversityApp2.csproj.CoreCompileInputs.cache

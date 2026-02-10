@@ -1,0 +1,9 @@
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\bin\Release\AdvancedUnitConverter.exe.config
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\bin\Release\AdvancedUnitConverter.exe
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\bin\Release\AdvancedUnitConverter.pdb
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Release\AdvancedUnitConverter.csproj.AssemblyReference.cache
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Release\AdvancedUnitConverter.Properties.Resources.resources
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Release\AdvancedUnitConverter.csproj.GenerateResource.cache
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Release\AdvancedUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Release\AdvancedUnitConverter.exe
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Release\AdvancedUnitConverter.pdb

@@ -1,0 +1,9 @@
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\bin\Debug\AdvancedUnitConverter.exe.config
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\bin\Debug\AdvancedUnitConverter.exe
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\bin\Debug\AdvancedUnitConverter.pdb
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Debug\AdvancedUnitConverter.csproj.AssemblyReference.cache
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Debug\AdvancedUnitConverter.Properties.Resources.resources
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Debug\AdvancedUnitConverter.csproj.GenerateResource.cache
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Debug\AdvancedUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Debug\AdvancedUnitConverter.exe
+C:\Users\samiy\Desktop\file\AdvancedUnitConverter\AdvancedUnitConverter\obj\Debug\AdvancedUnitConverter.pdb
